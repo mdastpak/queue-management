@@ -18,7 +18,7 @@ Queue Management is a CLI tool for managing RabbitMQ users and queues. This tool
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/queue-management.git
+    git clone https://github.com/mdastpak/queue-management.git
     cd queue-management
     ```
 
